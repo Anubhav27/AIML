@@ -2,8 +2,8 @@
 Repository having collection of all learning in AI,ML,Deep Learning and Computer Vision
 
 
-##NLP Topics##
+## NLP Topics
 
-###Beginner guide to NLP###
+### Beginner guide to NLP
 1.Articles
-	* Basic NLP[https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e]
+	* Basic [About NLP](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
